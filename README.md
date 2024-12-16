@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 ---
 
 ### 👨‍💻 About Me :
@@ -23,8 +22,8 @@
   <img src="https://github.com/user-attachments/assets/27471e59-600b-4515-8c9f-e6c0f897b61d" width="100"/>
   <img src="https://github.com/user-attachments/assets/aedbbc4f-afe7-48be-a0a9-e6995e4438e0" width="100"/>
   <img src="https://github.com/user-attachments/assets/f574333b-3790-40a2-8457-82478f501a00" width="100"/>
+  <img src="https://github.com/user-attachments/assets/59a7e7ee-b33d-4ec2-aa31-bd0c1645a5f9" width="100"/>
   </div>
-
 ## 🛠 Languages and Tools:
 
 <div>
