@@ -13,7 +13,18 @@
 
 ### 👨‍💻 About Me :
 
-  👦 I am Plamen Doychev, I am 25 years old from Bulgaria. 🇧🇬
+  🎓 **Education:** Software Engineering graduate with a strong academic background bridging technology and business.<br>
+  🚀 **Tech Journey:** Passionate Full-Stack & Mobile Developer focused on building clean, efficient, and scalable digital solutions.<br>
+  🧠 **Current Focus:** Deeply interested in AI integrations, automation, and cross-platform mobile development.<br>
+
+---
+
+## 🎯 Areas of Expertise:
+
+  * **Full-Stack Web Development:** Building dynamic applications with React, Angular, Node.js, and Express.
+  * **Mobile & Cross-Platform:** Developing mobile apps using Dart and Flutter.
+  * **AI & Modern Solutions:** Integrating AI-driven APIs and automated solutions into software products.
+  * **Database Management:** Designing reliable data architectures using MongoDB and Firebase.
 
 <div>
   <img src="https://github.com/user-attachments/assets/d17e2293-5c1b-4d1a-ba45-077f07fb4b76" width="100"/>
@@ -24,10 +35,15 @@
   <img src="https://github.com/user-attachments/assets/f574333b-3790-40a2-8457-82478f501a00" width="100"/>
   <img src="https://github.com/user-attachments/assets/59a7e7ee-b33d-4ec2-aa31-bd0c1645a5f9" width="100"/>
   </div>
+  
 ## 🛠 Languages and Tools:
 
 <div>
-
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![ChatGPT](https://img.shields.io/badge/AI%20Integration-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
